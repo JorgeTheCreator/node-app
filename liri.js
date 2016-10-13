@@ -6,7 +6,7 @@ var request = require('request');
 var fs = require('fs');
 var keys = require('./keys.js');
 var moment = require('moment');
-var controlWord;
+var firsWord;
 
 //global control for logging
 var outConsole = true;
@@ -14,29 +14,29 @@ var outFile = true; //the file output function has problems with asyncronous out
 
 
 //check to see it is loaded
-logger("===========================================================================================================");
+
 logger("liri.js was call on  "+moment().format("dddd, MMMM Do YYYY")+" at "+moment().format("h:mm:ss A")+" with arguments of " +process.argv[2] +" and " + process.argv[3]);
-logger("===========================================================================================================",false,2);
+logger("***************************************************************************************************************",false,2);
 
 if (process.argv.length === 2) {
     //no argv for control word. force switch to default
-    controlWord = 'use_default';
+    firsWord = 'use_default';
 
 }
 else{
-    controlWord = process.argv[2];
+    firsWord = process.argv[2];
 }
 
 
-switch (controlWord){
+switch (firsWord){
     case "my-tweets":
         my_tweets();
     break;
 
     case "spotify-this-song":
-        var songName="";
-        songName = process.argv[3];
-        spotify_this_song(songName);
+        var songTITLE="";
+        songTITLE = process.argv[3];
+        spotify_this_song(songTITLE);
     break;
 
     case "movie-this":
@@ -50,7 +50,7 @@ switch (controlWord){
     break;
 
     default:
-        //prompt for correct controlWord
+        //prompt for correct firsWord
         logger('Please enter a valid control work as the first argument\nmy-tweets\nspotify-this-song\nmovie-this\ndo-what-it-says');
 }
 
@@ -78,27 +78,29 @@ function my_tweets(){
 }
 
 
-function spotify_this_song(songName){
-    //check to see if was passed a valid songName
-    if (songName === undefined) {
+function spotify_this_song(songTITLE){
+    //check to see if was passed a valid songTITLE
+    if (songTITLE === undefined) {
         //force song name if it is not passed
-        songName = "The Sign Ace of Base";
+        songTITLE = "The Sign Ace of Base";
     }
-    spotify.search({ type: 'track', query: songName }, function(err, spotifyData) {
+    spotify.search({ type: 'track', query: songTITLE }, function(err, spotifyData) {
         if ( err ) {
             logger('Error occurred: ' + err);
         return;
         }
         if (spotifyData.tracks.items.length === 0) {
-            logger('No data was returned by Spotify -- if the song name is more than one word enclose it in quotes and check the spelling...');
+            logger('Dude..stop being messy..check your spelling/syntax...');
         }else{
             for (var i = 0; i < spotifyData.tracks.items.length; i++) {
-                logger(i+1);
+                logger("\t\t\tEnjoy this is Song number: "+i+1);
+                logger("\n");
                 logger('Artist: '+JSON.stringify(spotifyData.tracks.items[i].artists[0].name, null, 2));
                 logger('Song Name: '+JSON.stringify(spotifyData.tracks.items[i].name, null, 2));
-                logger('Preview Song: '+JSON.stringify(spotifyData.tracks.items[i].preview_url, null, 2));
+                logger('Link of the Preview Song: '+JSON.stringify(spotifyData.tracks.items[i].preview_url, null, 2));
                 logger('Album: '+JSON.stringify(spotifyData.tracks.items[i].album.name, null, 2));
-                logger("===============================================",false,true);
+                logger('------------------------------------------------------------------------------------',false,true);
+                
             }
         }
 
@@ -107,7 +109,7 @@ function spotify_this_song(songName){
 
 
 function movie_this(theMovie){
-    //check to see if was passed a valid songName
+    //check to see if was passed a valid songTITLE
     if (theMovie === undefined) {
         //force song name if it is not passed
         theMovie = "Mr. Nobody";
@@ -116,16 +118,18 @@ function movie_this(theMovie){
         if (!error && response.statusCode == 200) {
             var data = JSON.parse(movieData);
             //console.log("movieData = "+movieData)
-            logger("Title: "+data.Title);
-            logger("Year: "+data.Year, true);
-            logger("Rated: "+data.Rated, true);
-            logger("IMDB Rating: "+data.imdbRating, true);
-            logger("Country: "+data.Country, true);
-            logger("Language: "+data.Language, true);
-            logger("Plot: "+data.Plot, true);
-            logger("Actors: "+data.Actors, true);
-            logger("Rotten Tomatoes Rating: " +data.tomatoUserRating,true);
-            logger("Rotten Tomatoes URL: " +data.tomatoURL,true);
+            logger(`\t\t\t\t\t\t\t\t\t\t${data.Title}`);
+            logger(`\t\t\t\tTitle: ${data.Title}`);
+            logger(`\t\t\tYear: ${data.Year}`, true);
+            logger(`\t\t\tRated: ${data.Rated}`, true);
+            logger(`\t\t\tIMDB Rating: ${data.imdbRating}`, true);
+            logger(`\t\t\tCountry: ${data.Country}`, true);
+            logger(`\t\t\tLanguage: ${data.Language}`, true);
+            logger(`\t\t\tPlot: ${data.Plot}`, true);
+            logger(`\t\t\tActors: ${data.Actors}`, true);
+            logger(`\t\t\tRotten Tomatoes Rating: ${data.tomatoUserRating}`,true);
+            logger(`\t\t\t\Rotten Tomatoes URL: ${data.tomatoURL}`,true);
+             logger('\n',true);
         }
     })
 }
@@ -134,16 +138,16 @@ function do_what_it_says(){
     fs.readFile("random.txt", "utf8", function(error, fileData) {
         // Then split it by commas (to make it more readable)
         var dataArr = fileData.split(',');
-        var controlWord = dataArr[0];
-        switch (controlWord){
+        var firsWord = dataArr[0];
+        switch (firsWord){
             case "my-tweets":
                 my_tweets();
             break;
 
             case "spotify-this-song":
-                var songName="";
-                songName = dataArr[1];
-                spotify_this_song(songName);
+                var songTITLE="";
+                songTITLE = dataArr[1];
+                spotify_this_song(songTITLE);
             break;
 
             case "movie-this":

@@ -1,0 +1,505 @@
+liri.js was call on  Thursday, October 13th 2016 at 1:17:07 PM with arguments of spotify-this-song and undefined
+***************************************************************************************************************
+			Enjoy this is Song number: 01
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/177e65fc2b8babeaf9266c0ad2a1cb1e18730ae4"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 11
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893"
+Album: "Greatest Hits"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 21
+
+
+Artist: "Ace of Base"
+Song Name: "Don't Turn Around"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/b025e2e01a54f74ac763031ea6e823b431b1bf94"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 31
+
+
+Artist: "Ace of Base"
+Song Name: "All That She Wants"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/f1b7f8a81f37cdb2ea2ac21d3afa1b148ac8298f"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 41
+
+
+Artist: "Ace of Base"
+Song Name: "Living in Danger"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/410aab051a89e0298cb3e6c7cdce92e926e9ecf5"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 51
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/62e8565f0401e249e47455ddfa3186a45e9b4371"
+Album: "Happy Nation (U.S. Version) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 61
+
+
+Artist: "Ace of Base"
+Song Name: "Wheel of Fortune"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/f2f1136eeb0c07ac42ad39bb982142482de7a8a4"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 71
+
+
+Artist: "Ace of Base"
+Song Name: "Young and Proud"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/5060686860643ef1f97b4bc72084d23041c345d1"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 81
+
+
+Artist: "Ace of Base"
+Song Name: "Happy Nation"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/fe8a728c14dcb9b8cf29738bf5cf75e554d28d40"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 91
+
+
+Artist: "Ace of Base"
+Song Name: "Dancer in a Daydream"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/a8f716ead0cdbf06975fa55aec6efe9685e5dff9"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 101
+
+
+Artist: "Ace of Base"
+Song Name: "Waiting for Magic - Total Remix"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/d6bdbd626c56071f700c472ae720937682a2f222"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 111
+
+
+Artist: "Ace of Base"
+Song Name: "Voulez-Vous Danser"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/2ff38c2b3530cb41e27c91e0d5dcaf730bc2e279"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 121
+
+
+Artist: "Ace of Base"
+Song Name: "My Mind - Mindless Mix"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/d0ca5cac86d9ed354ee24f66776b2c9236cf8e6a"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 131
+
+
+Artist: "Ace of Base"
+Song Name: "All That She Wants - Banghra Version"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/23b78ddffd3e3453db66e865f42efaacc7661c62"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 141
+
+
+Artist: "Ace of Base"
+Song Name: "Mr Ace - Demo 1991 Bonus Track"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/1f97ad43bae3663b3facf1b4c711c64f814b0117"
+Album: "The Sign (US Album) [Remastered]"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 151
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893"
+Album: "The Sign (The Remixes)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 161
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign - Ultimix"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838"
+Album: "The Sign (The Remixes)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 171
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893"
+Album: "The Sign (The Remixes)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 181
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign - The Remix"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f"
+Album: "The Sign (The Remixes)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 191
+
+
+Artist: "Ace of Base"
+Song Name: "The Sign - The Remix"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f"
+Album: "The Sign (The Remixes)"
+------------------------------------------------------------------------------------
+liri.js was call on  Thursday, October 13th 2016 at 1:17:21 PM with arguments of spotify-this-song and crazy
+***************************************************************************************************************
+			Enjoy this is Song number: 01
+
+
+Artist: "Beyoncé"
+Song Name: "Crazy In Love"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/ce8ace0ec425840416be78db07cf50dd331eed4f"
+Album: "Dangerously In Love"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 11
+
+
+Artist: "Audien"
+Song Name: "Crazy Love"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/e88d83c53d5c5da5454cef7873eeff83d6057c3d"
+Album: "Crazy Love"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 21
+
+
+Artist: "Panic! At The Disco"
+Song Name: "Crazy=Genius"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/a4323cf9acbeebce2da65b598fddaa4eabc30f65"
+Album: "Death Of A Bachelor"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 31
+
+
+Artist: "Daniela Andrade"
+Song Name: "Crazy in Love"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/c9e121d35586073cd762844ae530fe73398af1e7"
+Album: "Crazy in Love"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 41
+
+
+Artist: "Beyoncé"
+Song Name: "Crazy In Love - Remix"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/ac99e5740a6cfdd06be16fbaefbd29a026965e48"
+Album: "Crazy In Love (Remix)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 51
+
+
+Artist: "Gnarls Barkley"
+Song Name: "Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/758fda586b074aeedb5e109bac266e3b2ac2dd01"
+Album: "St. Elsewhere"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 61
+
+
+Artist: "Ozzy Osbourne"
+Song Name: "Crazy Train - Remastered"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/4f317e5efa0aeba1413f661c05f8fbe203c6a9a2"
+Album: "Blizzard of Ozz (Expanded Edition)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 71
+
+
+Artist: "Michael Bublé"
+Song Name: "Haven't Met You Yet"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/1d0f610c854617098d1fadef34b398360b702434"
+Album: "Crazy Love"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 81
+
+
+Artist: "Crazy Town"
+Song Name: "Butterfly"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/8bab4427d8ce0fcb58daacaa20d19864554806f1"
+Album: "The Gift Of Game"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 91
+
+
+Artist: "Tech N9ne"
+Song Name: "Hood Go Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/6f27cb7fbb72adb9dcc88bfa3c98323db1f02b8d"
+Album: "Special Effects"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 101
+
+
+Artist: "Sofia Karlberg"
+Song Name: "Crazy in Love"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/d5ebe104d98db40538fef33e9efb57ffcc5f05ac"
+Album: "Crazy in Love - Single"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 111
+
+
+Artist: "Hunter Hayes"
+Song Name: "I Want Crazy - Encore"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/46b548c2b0fb081e3005f64d305579afd970f031"
+Album: "I Want Crazy"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 121
+
+
+Artist: "Eli Young Band"
+Song Name: "Crazy Girl"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/bb53a6eb9e4416413c7a396676a4ce7b8f5768e8"
+Album: "Life At Best"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 131
+
+
+Artist: "Daniela Andrade"
+Song Name: "Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/5f8d285e0880f26bc54b6d9e3bf13051433f07c2"
+Album: "Crazy"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 141
+
+
+Artist: "Mysha Didi"
+Song Name: "Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/d046a97848d4501917416cf99aca7a70a5543472"
+Album: "Crazy"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 151
+
+
+Artist: "Action Bronson"
+Song Name: "Actin Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/2d4654622fa960d62bef134e75f9343f6dd1ad8d"
+Album: "Mr. Wonderful"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 161
+
+
+Artist: "Buckcherry"
+Song Name: "Crazy B*tch"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/a033610f16cb97d17a88c9c2946b56862cfbb9aa"
+Album: "15"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 171
+
+
+Artist: "Tyler Farr"
+Song Name: "Redneck Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/59237751c3fca0ba3015e2eca6d3b2a56c8b0adf"
+Album: "Redneck Crazy"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 181
+
+
+Artist: "Lee Brice"
+Song Name: "Love Like Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/58f45ee6f3dc915b139423dd4f75fb65a640a91c"
+Album: "Love Like Crazy"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 191
+
+
+Artist: "4Minute"
+Song Name: "Crazy"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/42c10572d9f4c484e4ff302d19084da1f9131ddd"
+Album: "Crazy"
+------------------------------------------------------------------------------------
+liri.js was call on  Thursday, October 13th 2016 at 1:18:03 PM with arguments of my-tweets and undefined
+***************************************************************************************************************
+tweets: "You've got to love what you do to really make things happen. \n----Philip Green"
+time: "Tue Oct 11 02:57:46 +0000 2016"
+tweets: "The purpose of our lives is to be happy.\n---- Dalai Lama"
+time: "Tue Oct 11 02:56:40 +0000 2016"
+tweets: "Be happy for this moment. This moment is your life. \n-----Omar Khayyam"
+time: "Tue Oct 11 02:56:01 +0000 2016"
+tweets: "The most important thing is to enjoy your life - to be happy - it's all that matters. \n--- Audrey Hepburn"
+time: "Tue Oct 11 02:54:22 +0000 2016"
+tweets: "Very little is needed to make a happy life; it is all within yourself, in your way of thinking. \n-- Marcus Aurelius"
+time: "Tue Oct 11 02:53:36 +0000 2016"
+liri.js was call on  Thursday, October 13th 2016 at 1:18:16 PM with arguments of o-what-it-says and undefined
+***************************************************************************************************************
+Please enter a valid control work as the first argument
+my-tweets
+spotify-this-song
+movie-this
+do-what-it-says
+liri.js was call on  Thursday, October 13th 2016 at 1:18:26 PM with arguments of do-what-it-says and undefined
+***************************************************************************************************************
+			Enjoy this is Song number: 01
+
+
+Artist: "Backstreet Boys"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6"
+Album: "The Hits--Chapter One"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 11
+
+
+Artist: "Backstreet Boys"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c"
+Album: "Millennium"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 21
+
+
+Artist: "Boyce Avenue"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3"
+Album: "New Acoustic Sessions, Vol. 3"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 31
+
+
+Artist: "Backstreet Boys"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f"
+Album: "90 Sweet 90s Hits!"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 41
+
+
+Artist: "Backstreet Boys"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c"
+Album: "The Essential Backstreet Boys"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 51
+
+
+Artist: "Glee Cast"
+Song Name: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0"
+Album: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 61
+
+
+Artist: "Anthem Lights"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5"
+Album: "Covers Part IV"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 71
+
+
+Artist: "\"Weird Al\" Yankovic"
+Song Name: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef"
+Album: "The Essential Weird Al Yankovic"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 81
+
+
+Artist: "FROIDZ"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67"
+Album: "I Want It That Way"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 91
+
+
+Artist: "Brittany Howard"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7"
+Album: "I Want It That Way"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 101
+
+
+Artist: "Dynamite Boy"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/e028b2a49335c72305fe789185bf074b420ffdf4"
+Album: "Punk Goes Pop"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 111
+
+
+Artist: "\"Weird Al\" Yankovic"
+Song Name: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c"
+Album: "Poodle Hat"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 121
+
+
+Artist: "Scott Bradlee's Postmodern Jukebox"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3"
+Album: "Selfies on Kodachrome"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 131
+
+
+Artist: "Scott Bradlee's Postmodern Jukebox"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3"
+Album: "PMJ Is For Lovers: The Love Song Collection"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 141
+
+
+Artist: "Landon Austin & Julia Sheer"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c"
+Album: "I Want It That Way"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 151
+
+
+Artist: "Backstreet Boys"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794"
+Album: "NKOTBSB"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 161
+
+
+Artist: "Steel Panther"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f"
+Album: "I Want It That Way"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 171
+
+
+Artist: "Patent Pending"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d"
+Album: "Spring Break '99"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 181
+
+
+Artist: "Garrett Gardner"
+Song Name: "I Want It That Way - The Voice Performance"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185"
+Album: "I Want It That Way (The Voice Performance)"
+------------------------------------------------------------------------------------
+			Enjoy this is Song number: 191
+
+
+Artist: "Kidz Bop Kids"
+Song Name: "I Want It That Way"
+Link of the Preview Song: "https://p.scdn.co/mp3-preview/b4887d708386ad61a51b646e96c0494aa35b432e"
+Album: "Kidz Bop"
+------------------------------------------------------------------------------------
